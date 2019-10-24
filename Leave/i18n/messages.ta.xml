@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="ta" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Leave</source>
+                <target>விடுமுறை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Type Summary</source>
+                <target>விடுமுறையின் வகைச் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Define Leave Type</source>
+                <target>விடுமுறையின் வகையை விபரித்தல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Type Name</source>
+                <target>விடுமுறை வகையின் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Type is required in English</source>
+                <target>விடுமுறை வகையை ஆங்கிலத்தில் உட்செளுத்தவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Edit Leave Type</source>
+                <target>விடுமுறை வகையை புதுப்பித்தல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Type Name</source>
+                <target>விடுமுறை வகையின் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Description</source>
+                <target>விபரம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Rules</source>
+                <target>விடுமுறை விதிமுறைகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Active</source>
+                <target>செயற்பாட்டில் உள்ளது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Covering Employee Required</source>
+                <target>பதிலான ஊழியர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Allow Half Days</source>
+                <target>அரை நாள் விடுமுறைக்கு இணங்குதல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Maternity Leave</source>
+                <target>மகப்பேற்று விடுமுறை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Need Approval</source>
+                <target>அனுமதிப்பு தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Select the Employement type that are Eligible From the list bellow.</source>
+                <target>பின்வரும் பட்டியலிளிருந்து தகுதியுடைய ஊழியர்களை தெரிவு செய்க</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Entitle Days</source>
+                <target>உரிமையான நாட்கள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Maximum Leave Days without medical certificate</source>
+                <target>மருத்துவ சான்றிதழ் இன்றி அதிகூடிய விடுமுறை நாட்கள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Need to Apply Before</source>
+                <target>முன்பே அனுமதிக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Comments</source>
+                <target>கருத்து</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Leave Type is required </source>
+                <target>விடுமுறை வகை தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>This is required </source>
+                <target>இது தேவை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>This is required</source>
+                <target>இது தேவை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Leave Entitlement</source>
+                <target>உரிமை வழங்கும் விடுமுறைகள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Employee Name</source>
+                <target>ஊழியர் பெயர் </target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Leave Type Name</source>
+                <target>விடுமுறை வகையின் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Year</source>
+                <target>வருடம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Entitle Days</source>
+                <target>உரிமையளிக்கப்பட்ட நாட்கள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Shedule Days</source>
+                <target>பட்டியலிடப்பட்ட நாட்கள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Entitle Taken</source>
+                <target>எடுக்கப்பட்ட உரிமையளிக்கப்பட்ட நாட்கள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please Enter Digit</source>
+                <target>தயவு செய்து இலக்கத்தை உட்செளுத்தவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Apply Leave</source>
+                <target>விடுமுறை விண்ணப்பித்தல்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>My Leave Summary</source>
+                <target>என்னுடைய விடுமுறைச் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>மொத்த நாட்கள்</source>
+                <target>னடேத்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Taken</source>
+                <target>எடுக்கப்பட்டுள்ளது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Pending</source>
+                <target>நிறைவேராதவைகள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Remaing</source>
+                <target>மீதமுள்ளவைகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Approving Person Name</source>
+                <target>அனுமதிப்பவரின் பெயர் </target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Type Name</source>
+                <target>விடுமுறை வகையின் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Start Date</source>
+                <target>விடுமுறை ஆரம்பமாகும் திகதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave End Date</source>
+                <target>விடுமுறை முடிவடையும் திகதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Number of Days Applied</source>
+                <target>விண்ணப்பிக்கப்பட்ட நாட்களின் எண்ணிக்கை</target>
+            </trans-unit>
+                <trans-unit id="1">
+                    <source>Leave Reason</source>
+                    <target>விடுமுறைக்கான காரணம்</target>
+                </trans-unit>
+                <trans-unit id="1">
+                    <source>Comments</source>
+                    <target>கருத்துக்கள்</target>
+                </trans-unit>
+                <trans-unit id="1">
+                    <source>Please Enter Date</source>
+                    <target>திகதியை உட்செளுத்தவும்</target>
+                </trans-unit>
+                <trans-unit id="1">
+                    <source>This is a Holiday</source>
+                    <target>இது விடுமுறை நாளாகும்</target>
+                </trans-unit>
+                <trans-unit id="1">
+                    <source>Already applied a Leave</source>
+                    <target>ஏற்கனவே விடுமுறைக்கு விண்ணப்பிக்கப்பட்டுள்ளது</target>
+                </trans-unit>
+                <trans-unit id="1">
+                    <source>You Don't Have Enough Leave Balance</source>
+                    <target>விடுமுறைக்கு விண்ணப்பிக்க தகுதியுடைய நாட்கள் இல்லை</target>
+                </trans-unit>
+                <trans-unit id="1">
+                    <source>Invalid End Date</source>
+                    <target>தவறான முடிவுத் திகதியாகும்</target>
+                </trans-unit>
+                <trans-unit id="1">
+                    <source>This is a Holiday</source>
+                    <target>இது விடுமுறை நாளாகும்</target>
+                </trans-unit>
+                <trans-unit id="1">
+                    <source>Employee Leave Summary</source>
+                    <target>ஊழியர் விடுமுறைச் சுருக்கம்</target>
+                </trans-unit>
+                <trans-unit id="1">
+                    <source>Status :</source>
+                    <target>நிலைமை :</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>All</source>
+                    <target>அனைத்தும்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Pending</source>
+                    <target>இடையிலுள்ளவை</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Approved</source>
+                    <target>அனுமதிக்கப்பட்டவை</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Rejected</source>
+                    <target>நிராகரிக்கப்பட்டவை</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Canceled</source>
+                    <target>இரத்துச் செய்யப்பட்டது </target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Taken</source>
+                    <target>எடுக்கப்பட்டது</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>No of Days</source>
+                    <target>நாட்களின் எண்ணிக்கை</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Holiday Summary</source>
+                    <target>விடுமுறை நாட்களின் சுருக்கம்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Define Holiday</source>
+                    <target>விடுமுறைநாட்களை விபரித்தல்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Holiday Name</source>
+                    <target>விடுமுறை நாளின் பெயர்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Date</source>
+                    <target>திகதி</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>FullDay/HalfDay</source>
+                    <target>முழு நாள் / அரை நாள்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Annual</source>
+                    <target>வருடாந்தம்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Holiday is required in English</source>
+                    <target>விடுமுறையை ஆங்கிலத்தில் உட்செளுத்தவும்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Repeat Annualy</source>
+                    <target>னடேத்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Designation</source>
+                    <target>பதவி</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Department</source>
+                    <target>திணைக்களம்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Leave Type</source>
+                    <target>விடுமுறை வகை</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Please Enter From Date</source>
+                    <target>ஆரம்ப திகதியை உட்செளுத்தவும்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Please Enter To Date</source>
+                    <target>இறுதி திகதியை உட்செளுத்தவும்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Holiday Name</source>
+                    <target>விடுமுறைப் பெயர்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Sick</source>
+                    <target>சுகயீனம்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Alms Giving</source>
+                    <target>தருமம் கொடுத்தல்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Funeral</source>
+                    <target>மரணம்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Study</source>
+                    <target>கல்வி  நடவடிக்கை</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Personal</source>
+                    <target>தனிப்பட்டது</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>FullDay</source>
+                    <target>முழு நாள் </target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>HalfDay</source>
+                    <target>அரை நாள்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Entitlement Day</source>
+                    <target>உரிமையளிக்கப்பட்ட நாட்கள் </target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Leave Taken</source>
+                    <target>எடுக்கப்பட்ட விடுமுறை நாட்கள்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Leave Reamin</source>
+                    <target>எஞ்சியுள்ள விடுமுறை நாட்கள்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Leave Reamin</source>
+                    <target>எஞ்சியுள்ள விடுமுறை நாட்கள்</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>Start Date</source>
+                    <target>ஆரம்ப திகதி</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>End Date</source>
+                    <target>இறுதித் திகதி</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>From Date</source>
+                    <target>இருந்தான திகதி</target>
+                </trans-unit>
+                <trans-unit id="116">
+                    <source>To Date</source>
+                    <target>வரையான திகதி</target>
+                </trans-unit>
+                <trans-unit id="116">
+                <source>Leave Type Configuration</source>
+                <target>விடுமுறை வகை அமைவடிவம்</target>
+              </trans-unit>
+            </body>
+        </file>
+    </xliff>
+
+    

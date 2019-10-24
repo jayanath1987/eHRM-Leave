@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Leave</source>
+                <target>නිවාඩු</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Type Summary</source>
+                <target>නිවාඩු වර්ග සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Define Leave Type</source>
+                <target>නිවාඩු නිර්වචනය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Type Name</source>
+                <target>නිවාඩු වර්ග</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Type is required in English</source>
+                <target>ඉංග්‍රීසියෙන් අනිවාර්යයි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Edit Leave Type</source>
+                <target>නිවාඩු වර්ග සංස්කරණය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Type Name</source>
+                <target>නිවාඩු වර්ග</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Description</source>
+                <target>විස්තරය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Rules</source>
+                <target>නිවාඩු රෙගුලාසි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Active</source>
+                <target>සක්‍රීය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Covering Employee Required</source>
+                <target>ආවරණය කරන සේවකයා අනිවාර්යයි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Allow Half Days</source>
+                <target>එක්වරුව වලංගුයි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Maternity Leave</source>
+                <target>මාතෘ නිවාඩු</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Need Approval</source>
+                <target>අනුමැතිය අවශ්‍යයි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Select the Employment types that are eligible from the list below.</source>
+                <target>සුදුසුකම් ඇති සේවානියුක්තිකයන් තෝරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Entitle Days</source>
+                <target>හිමිකම් ඇති දින</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Maximum Leave Days without medical certificate</source>
+                <target>වෛද්‍ය සහතිකය නැතිව උපරිම නිවාඩු දින</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Need to Apply Before Days</source>
+                <target>ඉල්ලීමට පෙර අනුමැතිය අවශ්‍යයි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Comments</source>
+                <target>අදහස්</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Leave Type is required </source>
+                <target>අනිවාර්යයි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>This is required </source>
+                <target>අනිවාර්යයි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>This is required</source>
+                <target>අනිවාර්යයි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Leave Entitlement</source>
+                <target>නිවාඩු හිමිකම්</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Employee Name</source>
+                <target>සේවකයාගේ නම</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Leave Type Name</source>
+                <target>නිවාඩු වර්ගය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Year</source>
+                <target>වර්ෂය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Entitle Days</source>
+                <target>නිවාඩු හිමිකම් දින</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Shedule Days</source>
+                <target>සැලසුම් කරන ලද දින</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Entitle Taken</source>
+                <target>ගන්නා ලද නිවාඩු</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please Enter Digit</source>
+                <target>ඉලක්කම් පමණයි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Apply Leave</source>
+                <target>නිවාඩු ඉල්ලුම් කරනවා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>My Leave Summary</source>
+                <target>මගේ නිවාඩු සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Total Days</source>
+                <target>මුළු දින ගණන</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Taken</source>
+                <target>ගන්නා ලද</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Pending</source>
+                <target>ඉල්ලුම් කිරීමට තිබෙන</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Remaing</source>
+                <target>ඉතිරි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Approving Person Name</source>
+                <target>අනුමත කරන නිලධාරියා</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Type Name</source>
+                <target>නිවාඩු වර්ගය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Start Date</source>
+                <target>නිවාඩු ආරම්භක දිනය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave End Date</source>
+                <target>නිවාඩු අවසාන දිනය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Number of Days Applied</source>
+                <target>ඉල්ලුම් කරන ලද නිවාඩු දින ගණන</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Leave Reason</source>
+                <target>නිවාඩු ගැනීමට හේතුව</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Comments</source>
+                <target>අදහස්</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please Enter Date</source>
+                <target>කරුණාකර දිනය ඇතුළත් කරන්න</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>This is a Holiday</source>
+                <target>නිවාඩු දිනයකි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Already applied a Leave</source>
+                <target>දැනටමත් ඉල්ලුම් කර ඇත</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>You Don't Have Enough Leave Balance</source>
+                <target>ඔබට ප්‍රමාණවත් තරම් නිවාඩු ඉතිරි ව නැත</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Invalid End Date</source>
+                <target>වලංගු නැති දිනයකි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>This is a Holiday</source>
+                <target>නිවාඩු දිනයකි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee Leave Summary</source>
+                <target>නිවාඩු සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Status :</source>
+                <target>තත්ත්වය :</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>All</source>
+                <target>සියල්ල</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Pending</source>
+                <target>ඉල්ලුම් කිරීමට තිබෙන</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Approved</source>
+                <target>අනුමත කළ</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Rejected</source>
+                <target>ප්‍රතික්ෂේපිත</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Canceled</source>
+                <target>අවලංගු කළ</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Taken</source>
+                <target>ගන්නා ලද</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>No of Days</source>
+                <target>දින</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Holiday Summary</source>
+                <target>නිවාඩු දින සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Define Holiday</source>
+                <target>නිවාඩු දින නිර්වචනය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Holiday Name</source>
+                <target>නිවාඩු දින</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Date</source>
+                <target>දිනය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Full Day/Half Day</source>
+                <target>දවස/එක්වරුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Annual</source>
+                <target>වාර්ෂික</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Holiday is required in English</source>
+                <target>ඉංග්‍රීසියෙන් අනිවාර්යයි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Repeat Annualy</source>
+                <target>වාර්ෂිකව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Designation</source>
+                <target>තනතුර</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Department</source>
+                <target>දෙපාර්තමේන්තුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Leave Type</source>
+                <target>නිවාඩු වර්ගය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please Enter From Date</source>
+                <target>ආරම්භක දිනය ඇතුලත් කරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please Enter To Date</source>
+                <target>අවසාන දිනය ඇතුලත් කරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Holiday Name</source>
+                <target>නිවාඩු දිනය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Sick</source>
+                <target>අසනීප</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Alms Giving</source>
+                <target>දානය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Funeral</source>
+                <target>අවමඟුල</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Study</source>
+                <target>ඉගෙනීම් කටයුතු</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Personal</source>
+                <target>පෞද්ගලික</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>FullDay</source>
+                <target>දවස</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>HalfDay</source>
+                <target>එක්වරුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Entitlement Day</source>
+                <target>හිමිකම් දින</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Leave Taken</source>
+                <target>ගන්නා ලද</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Leave Reamin</source>
+                <target>ඉතිරි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Leave Reamin</source>
+                <target>ඉතිරි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Start Date</source>
+                <target>ආරම්භක දිනය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>End Date</source>
+                <target>අවසාන දිනය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>From Date</source>
+                <target>සිට</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>To Date</source>
+                <target>දක්වා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Leave Type Configuration</source>
+                <target>නිවාඩු වර්ගය හැඩගැසීම</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Entitled</source>
+                <target>හිමි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Scheduled</source>
+                <target>සැලසුම් කරන ලද</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Remaining</source>
+                <target>ඉතිරි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Leave Year</source>
+                <target>නිවාඩු වර්ෂය</target>
+            </trans-unit>.
+            <trans-unit id="116">
+                <source>Details.</source>
+                <target>තොරතුරු.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Days</source>
+                <target>දින</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Status</source>
+                <target>තත්ත්වය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Annually</source>
+                <target>වාර්ෂිකව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Employee ID</source>
+                <target>සේවක අංකය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Add Employee</source>
+                <target>සේවකයන් එක් කරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Id</source>
+                <target>අංකය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Remove</source>
+                <target>ඉවත් කරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please Select the Leave Type </source>
+                <target>නිවාඩු වර්ගය තෝරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Acting Person</source>
+                <target>වැඩ බලන නිලධාරියා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>My Leave List</source>
+                <target>මගේ නිවාඩු ලැයිස්තුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please Select Employee</source>
+                <target>කරුණාකර සේවකයෙක් තෝරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Details..</source>
+                <target>තොරතුරු</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>First Half</source>
+                <target>උදය වරුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Second Half</source>
+                <target>හවස් වරුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Acting Person</source>
+                <target>නිවැරදි වැඩ බලන නිලධාරියා තෝරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Applied leave amount : </source>
+                <target>ඉල්ලුම් කරන ලද නිවාඩු</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>OK</source>
+                <target>එකඟ වීම</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Cancel</source>
+                <target>අවලංගු කරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source> Applied Days </source>
+                <target>ඉල්ලුම් කරන ලද නිවාඩු</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>You don't have Superviser, Can't Apply Leave. </source>
+                <target>නිවාඩු ඉල්ලුම් කළ නොහැක</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Admin Can not apply Leave.</source>
+                <target>නිවාඩු ඉල්ලුම් කළ නොහැක</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please Select an Employee</source>
+                <target>කරුණාකර සේවකයෙක් තෝරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>You don't have Supervisor, Can't Apply Leave.  </source>
+                <target>නිවාඩු ඉල්ලුම් කළ නොහැක</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Employee does not Entitled for Leave Year : </source>
+                <target>මෙම වර්ෂයට අනුමත කළ නිවාඩු නොමැත</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Applied leave amount : </source>
+                <target>ඉල්ලුම් කරන ලද නිවාඩු</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Already applied for Leave</source>
+                <target>දැනටමත් ඉල්ලුම් කර ඇත</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please Select Leave Start Date and End Date</source>
+                <target>කරුණාකර නිවාඩු ආරම්භක දිනය සහ අවසාන දිනය තෝරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Acting Person is on Leave, Select Another Person</source>
+                <target>වැඩ බලන නිලධාරියා නිවාඩු ගොස් ඇත</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>You need to apply for leave at least </source>
+                <target>හවස වරුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source> Days prior to Leave start date.</source>
+                <target>හවස වරුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Full Day</source>
+                <target>දවස</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Half Day</source>
+                <target>එක්වරුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Edit Holiday</source>
+                <target>නිවාඩු දින සංස්කරණය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>FullDay/HalfDay</source>
+                <target>දවස/එක්වරුව</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please Select an Employee.</source>
+                <target>කරුණාකර සේවකයෙක් තෝරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Employees are selected according to the leave type configuration</source>
+                <target>සේවකයන් එකතුවන්නේ සේවක වර්ගයට අනුවය.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Canceled Leave</source>
+                <target>නිවාඩුව අවලංගුය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Holiday</source>
+                <target>නිවාඩු දින</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Sunday</source>
+                <target>ඉරිදා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Monday</source>
+                <target>සඳුදා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Tuesday</source>
+                <target>අඟහරුවාදා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Wednesday</source>
+                <target>බදාදා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Thursday</source>
+                <target>බ්‍රහස්පතින්දා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Friday</source>
+                <target>සිකුරාදා</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Saturday</source>
+                <target>සෙනසුරාදා</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
+
